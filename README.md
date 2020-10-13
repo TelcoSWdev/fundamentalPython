@@ -1,0 +1,2 @@
+# fundamentalPython
+Learning fundamental Python
